@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f33888e.css",
-    "main.js": "/static/js/main.dabbcc74.js",
-    "static/js/787.a4d79896.chunk.js": "/static/js/787.a4d79896.chunk.js",
-    "static/media/gotWallpaper.jpg": "/static/media/gotWallpaper.64e18d5e5334e5766e42.jpg",
-    "index.html": "/index.html",
-    "main.0f33888e.css.map": "/static/css/main.0f33888e.css.map",
-    "main.dabbcc74.js.map": "/static/js/main.dabbcc74.js.map",
-    "787.a4d79896.chunk.js.map": "/static/js/787.a4d79896.chunk.js.map"
+    "main.css": "/HangManGoT/static/css/main.d49903b8.css",
+    "main.js": "/HangManGoT/static/js/main.f1209b48.js",
+    "static/js/787.a4d79896.chunk.js": "/HangManGoT/static/js/787.a4d79896.chunk.js",
+    "static/media/gotWallpaper.jpg": "/HangManGoT/static/media/gotWallpaper.64e18d5e5334e5766e42.jpg",
+    "index.html": "/HangManGoT/index.html",
+    "main.d49903b8.css.map": "/HangManGoT/static/css/main.d49903b8.css.map",
+    "main.f1209b48.js.map": "/HangManGoT/static/js/main.f1209b48.js.map",
+    "787.a4d79896.chunk.js.map": "/HangManGoT/static/js/787.a4d79896.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f33888e.css",
-    "static/js/main.dabbcc74.js"
+    "static/css/main.d49903b8.css",
+    "static/js/main.f1209b48.js"
   ]
 }
