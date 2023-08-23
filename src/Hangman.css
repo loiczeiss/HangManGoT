@@ -2,6 +2,7 @@
     width: 400px;
     color: black;
     text-align: center;
+    justify-self: end;
     zoom: 1.3;
   }
   
