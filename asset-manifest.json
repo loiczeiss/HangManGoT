@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HangManGoT/static/css/main.d49903b8.css",
-    "main.js": "/HangManGoT/static/js/main.f1209b48.js",
-    "static/js/787.a4d79896.chunk.js": "/HangManGoT/static/js/787.a4d79896.chunk.js",
+    "main.css": "/HangManGoT/static/css/main.382b9168.css",
+    "main.js": "/HangManGoT/static/js/main.38e9e151.js",
+    "static/js/787.06f69506.chunk.js": "/HangManGoT/static/js/787.06f69506.chunk.js",
     "static/media/gotWallpaper.jpg": "/HangManGoT/static/media/gotWallpaper.64e18d5e5334e5766e42.jpg",
     "index.html": "/HangManGoT/index.html",
-    "main.d49903b8.css.map": "/HangManGoT/static/css/main.d49903b8.css.map",
-    "main.f1209b48.js.map": "/HangManGoT/static/js/main.f1209b48.js.map",
-    "787.a4d79896.chunk.js.map": "/HangManGoT/static/js/787.a4d79896.chunk.js.map"
+    "main.382b9168.css.map": "/HangManGoT/static/css/main.382b9168.css.map",
+    "main.38e9e151.js.map": "/HangManGoT/static/js/main.38e9e151.js.map",
+    "787.06f69506.chunk.js.map": "/HangManGoT/static/js/787.06f69506.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d49903b8.css",
-    "static/js/main.f1209b48.js"
+    "static/css/main.382b9168.css",
+    "static/js/main.38e9e151.js"
   ]
 }
